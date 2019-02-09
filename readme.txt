@@ -3,3 +3,4 @@ git is free software
 git wudi
 git has a mutable index called stage
 Git tracks changes of files.
+git test remote
